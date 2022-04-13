@@ -3,7 +3,8 @@
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.odd-number.third-elem {
+/* tutaj mogla byc po prostu nazwa drugiej klasy czyli .third-elem */
+.odd-number.third-elem { 
     font-size:24px;
 }
 
