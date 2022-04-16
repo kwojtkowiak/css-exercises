@@ -24,7 +24,10 @@ img {
   max-width: 200px;
 }
 
-
+.whole {
+  height: 100vh;
+  transform: translateY(50%);
+}
 /* do not edit this footer */
 .footer {
   position: fixed;
